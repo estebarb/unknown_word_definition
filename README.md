@@ -3,6 +3,19 @@
 This repository contains the code and data for the paper Exploring the Limits
 of Large Language Models for Word Definition Generation: A Comparative Analysis.
 
+If used, please cite: Exploring the Limits of Large Language Models for Word Definition Generation: A Comparative Analysis. Esteban Rodríguez Betancourt and Edgar E. Casasola.
+
+```bibtex
+@INPROCEEDINGS{RodriguezBetancourt2023,
+  author={Rodríguez-Betancourt, Esteban and Casasola-Murillo, Edgar},
+  booktitle={2023 XVLIV Latin American Computer Conference (CLEI)}, 
+  title={Exploring the Limits of Large Language Models for Word Definition Generation: A Comparative Analysis}, 
+  year={2023},
+  volume={},
+  number={}
+}
+```
+
 ## Install
 
 To make easier to reproduce the results, the code is provided as Jupyter Notebooks.
